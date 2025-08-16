@@ -1,6 +1,11 @@
-# Skincare_recommendation
-This project aims to develop an intelligent skincare recommendation system that helps users find the most suitable skincare products and routines based on their unique skin type, concerns, and goals.
+**Project Overview**
 
-**Problem statement:**
+This project builds a machine learning–powered skincare recommendation system for Sephora customers. By analyzing product details, customer profiles, and user reviews, the system delivers personalized and explainable product recommendations that help users discover the right skincare solutions while improving customer satisfaction and loyalty.
 
-Goal: Given a user’s skin type (oily/dry/combination/normal), concerns (acne, sensitivity, dark spots, aging), allergies, and budget, rank Sephora products and return top N with reasons (“no fragrance,” “low comedogenic score,” “contains niacinamide + ceramides”).
+**Problem Statement**
+
+Sephora is one of the largest global beauty retailers, offering thousands of skincare products such as cleansers, moisturizers, serums, and sunscreens. While the wide variety empowers customers, it also creates choice overload—users often struggle to find the right products for their individual skin type, concerns, preferences, and budget.
+
+Currently, customers rely heavily on trial-and-error, generic suggestions, or influencer trends, which may not be scientifically or personally accurate. This leads to reduced satisfaction and limits Sephora’s ability to maximize engagement, sales, and long-term customer loyalty.
+
+The aim of this project is to build a machine learning–based skincare recommendation system that leverages customer data (skin type, concerns, preferences), product metadata (ingredients, categories, prices), and user reviews to provide personalized, explainable recommendations.
